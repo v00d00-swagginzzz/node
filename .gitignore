@@ -167,3 +167,11 @@ __pycache__
 
 # === Rules for C++ development ===
 compile_commands.json
+deps/openssl/config/archs/darwin64-arm64-cc/asm_avx2/include/openssl/safestack (\# Name clash 2025-02-22 tmo3iaC \#).h
+deps/openssl/config/archs/darwin64-arm64-cc/asm_avx2/include/openssl/srp (\# Name clash 2025-02-22 8kfh69C \#).h
+deps/openssl/config/archs/linux-armv4/asm/crypto/aes/aesv8-armx (\# Name clash 2025-02-22 kjyf06C \#).S
+deps/openssl/openssl/crypto/pkcs12/pk12err (\# Name clash 2025-02-22 2yvkm8C \#).c
+deps/openssl/openssl/crypto/pkcs7/bio_pk7 (\# Name clash 2025-02-22 xww9wmC \#).c
+deps/openssl/openssl/crypto/pkcs7/pk7_mime (\# Name clash 2025-02-22 qp0we6C \#).c
+deps/openssl/openssl/test/recipes/04-test_hexstring (\# Name clash 2025-02-22 c9cr7vC \#).t
+deps/openssl/openssl/test/recipes/04-test_nodefltctx (\# Name clash 2025-02-22 d49u6zC \#).t
